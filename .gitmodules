@@ -5,3 +5,6 @@
 [submodule "fortniteR"]
 	path = fortniteR
 	url = https://github.com/econosopher/fortniter
+[submodule "sensortowerR"]
+	path = sensortowerR
+	url = https://github.com/econosopher/sensortowerr
